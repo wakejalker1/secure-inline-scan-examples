@@ -1,6 +1,6 @@
 env:
     SYSDIG_SECURE_ENDPOINT: "https://app.us4.sysdig.com"
-    REGISTRY_HOST: "ghcr.io"
+    REGISTRY_HOST: "hub.docker.com"
     IMAGE_NAME: "test-actions"
     IMAGE_TAG: "my-tag"
     DOCKERFILE_CONTEXT: "github/new-scan-engine/"
